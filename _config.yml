@@ -7,7 +7,7 @@ title: Dino's Den
 subtitle:
 description:
 author: Dino Pan
-language: zh-Hans
+language: en
 timezone:
 
 # URL
@@ -71,3 +71,6 @@ deploy:
   type: git
   repo: git@github.com:DinoPiano/DinoPiano.github.io.git
   branch: master
+
+# Baidu Analytics ID
+baidu_analytics: 80e232df752154d338902d8128c459ec
