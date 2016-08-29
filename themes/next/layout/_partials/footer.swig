@@ -15,9 +15,12 @@
   {{ __('footer.powered', '<a class="theme-link" href="https://hexo.io">Hexo</a>') }}
 </div>
 
-<div class="theme-info">
+<div class="powered-by">
   {{ __('footer.theme') }} -
   <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
     NexT.{{ theme.scheme }}
-  </a>
-</div>
+  </a></div>
+
+<span id="busuanzi_container_site_pv">
+    Page Views：<span id="busuanzi_value_site_pv"></span>
+</span>
