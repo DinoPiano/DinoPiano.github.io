@@ -1,3 +1,3 @@
-# DinoPiano.github.io
+# Dino.github.io
 
 hexo files
