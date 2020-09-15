@@ -4,11 +4,11 @@
 
 # Site
 title: Dino's Den
-subtitle:
+subtitle: 路漫漫，其修远兮
 description:
-author: Dino Pan
-language: en
-timezone:
+author: Dino
+language: zh-Hans
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -69,7 +69,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:DinoPiano/DinoPiano.github.io.git
+  repo: git@github.com:QiFeiPan/QiFeiPan.github.io.git
   branch: master
 
 # Baidu Analytics ID
